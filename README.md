@@ -1,14 +1,60 @@
-# 5_mini_project
+# 50_mini_projects
 
-## Build 5 Project With HTML, CSS & JavaScript
+## Build 50 Projects With HTML, CSS & JavaScript
 
-- Project 1 - Blurry Loading
-- Project 2 - Vertical Slider
-- Project 3 - Random Choice Picker
-- Project 4 - Live User Filter
-- Project 5 - Content Placeholder
+- Expanding Cards
+- Progress Steps
+- Rotating Navigation Animation
+- Hidden Search Widget
+- D05    Blurry Loading
+- Scroll Animation
+- Split Landing Page
+- Form Wave
+- Sound Board
+- Dad Jokes
+- Event Keycodes
+- Faq Collapse
+- Random Choice Picker
+- Animated Navigation
+- Incrementing Counter
+- Drink Water
+- Movie App
+- Background Slider
+- Theme Clock
+- Button Ripple Effect
+- Drag N Drop
+- Drawing App
+- Kinetic Loader
+- Content Placeholder
+- Sticky Navbar
+- Double Vertical Slider
+- Toast Notification
+- Github Profiles
+- Double Click Heart
+- Auto Text Effect
+- Password Generator
+- Good Cheap Fast
+- Notes App
+- Animated Countdown
+- Image Carousel
+- Hoverboard
+- Pokedex
+- Mobile Tab Navigation
+- Password Strength Background
+- 3d Background Boxes
+- Verify Account UI
+- Live User Filter
+- Feedback UI Design
+- Custom Range Slider
+- Netflix Mobile Navigation
+- Quiz App
+- Testimonial Box Switcher
+- Random Image Feed
+- Todo List
+- Insect Catch Game
 
 
 
 ## Reference
-[https://www.youtube.com/watch?v=JkeyKeK3V24](https://www.youtube.com/watch?v=JkeyKeK3V24)
+[https://www.udemy.com/course/50-projects-50-days](https://www.udemy.com/course/50-projects-50-days)
+
